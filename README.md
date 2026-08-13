@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">- 📫 How to reach me</h2>
+<h2 data-importer="text" align="left">📫 How to reach me</h2>
 
 ###
 
