@@ -2,7 +2,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">About me</h2>
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Languages I'm learning (technologies)</h2>
+<h2 data-importer="text" align="left">Languages I'm learning (technologies)</h2>
 
 ###
 
@@ -26,16 +26,16 @@
 
 ###
 
-<h2 data-importer="text" align="center">How to reach me (contacts)</h2>
+<h2 data-importer="text" align="left">How to reach me (contacts)</h2>
 
 ###
 
-<div data-importer="socials" align="right">
+<div data-importer="socials" align="left">
   <a href="www.linkedin.com/in/richarlyson-lucas-x-7362013b3" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/richarlyson_26/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="39" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
 </div>
 
