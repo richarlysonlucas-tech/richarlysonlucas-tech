@@ -8,7 +8,7 @@
 
 ###
 
-<p data-importer="text" align="left">🌱 - I’m a student in the Systems Analysis and Development (ADS) program at UNINASSAU, located in Pernambuco, Brazil.</p>
+<p data-importer="text" align="left">🌱 - I am studying Systems Analysis and Development at UNINASSAU, located in Pernambuco, Brazil.</p>
 
 ###
 
